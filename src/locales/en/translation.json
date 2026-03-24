@@ -1,0 +1,244 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Your home away from home",
+    "subtitle": "Foyer Babel — a modern student residence in the heart of Tunis, designed for students, tech professionals, and ambitious entrepreneurs.",
+    "cta_rooms": "View rooms",
+    "cta_contact": "Contact us",
+    "scroll_down": "Scroll down"
+  },
+  "rooms": {
+    "title": "Our Rooms",
+    "subtitle": "Spaces designed for your comfort and productivity",
+    "individual": {
+      "name": "Individual Room",
+      "description": "Your personal space to study and rest in complete peace. Single bed, desk, and built-in storage.",
+      "price": "300 TND/month"
+    },
+    "double": {
+      "name": "Double Room",
+      "description": "Share your space with a roommate. Two beds, two desks, friendly atmosphere and great value.",
+      "price": "200 TND/month"
+    },
+    "triple": {
+      "name": "Triple Room",
+      "description": "Ideal for friend groups. Three beds, three desks, a generous space to live and study together.",
+      "price": "150 TND/month"
+    },
+    "view_details": "View details"
+  },
+  "pricing": {
+    "title": "Our Pricing",
+    "subtitle": "Choose the room that fits your budget",
+    "triple": {
+      "name": "Triple Room",
+      "price": "150",
+      "period": "/ month",
+      "features": [
+        "Shared room for 3",
+        "3 beds + 3 desks",
+        "High-speed WiFi",
+        "Weekly cleaning",
+        "24/7 Security",
+        "Common areas access"
+      ]
+    },
+    "double": {
+      "name": "Double Room",
+      "price": "200",
+      "period": "/ month",
+      "popular": "Most popular",
+      "features": [
+        "Shared room for 2",
+        "2 beds + 2 desks",
+        "High-speed WiFi",
+        "Weekly cleaning",
+        "24/7 Security",
+        "Common areas access"
+      ]
+    },
+    "individual": {
+      "name": "Individual Room",
+      "price": "300",
+      "period": "/ month",
+      "features": [
+        "Private room",
+        "Personal bed + desk",
+        "High-speed WiFi",
+        "Weekly cleaning",
+        "24/7 Security",
+        "Total privacy"
+      ]
+    },
+    "currency": "TND",
+    "cta": "Choose this room"
+  },
+  "amenities": {
+    "title": "Our Amenities",
+    "subtitle": "Everything you need under one roof",
+    "wifi": "High-Speed WiFi",
+    "cafe": "Café & Snack Shop",
+    "security": "24/7 Security",
+    "gym": "Fitness Center",
+    "coworking": "Co-working Space",
+    "laundry": "Laundry",
+    "parking": "Parking",
+    "ac": "Air Conditioning"
+  },
+  "audience": {
+    "title": "Who Is Foyer Babel For?",
+    "subtitle": "A residence designed for every profile",
+    "students": {
+      "title": "Esprit Students",
+      "description": "An ideal setting for academic success. Campus proximity, studious atmosphere, and a supportive student network.",
+      "cta": "Learn more"
+    },
+    "techup": {
+      "title": "TechUp Residents",
+      "description": "Living space optimized for tech professionals. Ultra-fast WiFi, co-working space, and a developer community.",
+      "cta": "Learn more"
+    },
+    "startup": {
+      "title": "StartupTech Entrepreneurs",
+      "description": "Launch your startup from your residence. Networking, mentoring, and access to a dynamic entrepreneurial ecosystem.",
+      "cta": "Learn more"
+    }
+  },
+  "about": {
+    "page_title": "Our Story",
+    "page_subtitle": "Discover the history and values that make Foyer Babel a unique place",
+    "story": {
+      "title": "Our Journey",
+      "milestones": [
+        {
+          "year": "2015",
+          "title": "The Foundation",
+          "description": "Foyer Babel was born from a simple vision: to offer Tunisian students a modern and affordable living space. Our founders, former students themselves, understood the challenges of student housing."
+        },
+        {
+          "year": "2017",
+          "title": "First Expansion",
+          "description": "Facing growing demand, we opened a second wing with 40 new rooms and introduced our co-working space, which quickly became the beating heart of the residence."
+        },
+        {
+          "year": "2019",
+          "title": "Esprit Partnership",
+          "description": "Signing of a strategic partnership with Esprit school, facilitating access to housing for engineering and IT students."
+        },
+        {
+          "year": "2021",
+          "title": "Tech & Innovation Hub",
+          "description": "Launch of the TechUp Residents program, transforming the residence into a true innovation hub with weekly workshops, mentoring, and hackathons."
+        },
+        {
+          "year": "2024",
+          "title": "Residence of the Future",
+          "description": "Complete renovation with connected rooms, a dedicated mobile app, and premium services. Foyer Babel now welcomes over 200 residents."
+        }
+      ]
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To create a living environment that fosters academic excellence, technological innovation, and the personal growth of each resident."
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "Community, excellence, innovation, and respect. These four pillars guide every decision and improvement we bring to Foyer Babel."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become the reference for student residences in Tunisia and North Africa, combining modern comfort with an inspiring community."
+    },
+    "gallery": {
+      "title": "Our Gallery",
+      "subtitle": "Discover our spaces in pictures"
+    }
+  },
+  "contact": {
+    "page_title": "Contact Us",
+    "page_subtitle": "We're here to answer all your questions",
+    "info_title": "Our Information",
+    "phone": "+216 71 234 567",
+    "email": "contact@foyerbabel.tn",
+    "address": "La Ghazela, Ariana 2083, Tunis, Tunisia",
+    "form_title": "Send us a message",
+    "name": "Full Name",
+    "name_placeholder": "Your full name",
+    "email_label": "Email",
+    "email_placeholder": "your.email@example.com",
+    "phone_label": "Phone (optional)",
+    "phone_placeholder": "+216 XX XXX XXX",
+    "subject": "Subject",
+    "subject_placeholder": "Subject of your message",
+    "message": "Message",
+    "message_placeholder": "Write your message here...",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Your message has been sent successfully! We'll get back to you as soon as possible.",
+    "error": "An error occurred. Please try again later.",
+    "validation": {
+      "name_required": "Name is required",
+      "email_required": "Email is required",
+      "email_invalid": "Email address is not valid",
+      "subject_required": "Subject is required",
+      "message_required": "Message is required",
+      "message_min": "Message must be at least 10 characters"
+    },
+    "social_title": "Follow Us",
+    "social_subtitle": "Stay connected with Foyer Babel",
+    "plan_selected": "Selected plan:",
+    "plan_subject": "Registration inquiry — {{plan}} Plan",
+    "plan_message": "Hello,\n\nI am interested in the {{plan}} plan ({{price}}).\n\nI would like to receive more information about the registration process and availability.\n\nThank you for your response.\n\nBest regards",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "tagline": "Your modern student residence in the heart of Tunis. Comfort, community, and innovation.",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact",
+    "newsletter": "Newsletter",
+    "newsletter_text": "Receive our latest news and special offers.",
+    "email_placeholder": "Your email address",
+    "subscribe": "Subscribe",
+    "copyright": "© 2024 Foyer Babel. All rights reserved.",
+    "made_with": "Made with ❤️ in Tunisia"
+  },
+  "room_detail": {
+    "back": "Back to rooms",
+    "back_home": "Back to home",
+    "not_found": "Room not found",
+    "person": "person(s)",
+    "book_now": "Book now",
+    "description_title": "Description",
+    "equipment_title": "Included Equipment",
+    "individual": {
+      "long_description": "Our individual room is the perfect choice for students seeking a personal and quiet space. Equipped with a comfortable bed, a spacious desk, and built-in storage, this room provides everything you need to succeed in your studies. Abundant natural light and functional design create an atmosphere conducive to study and rest. Shared bathrooms are cleaned daily. At 300 TND per month, it's the ideal solution for a comfortable and private stay."
+    },
+    "double": {
+      "long_description": "The double room is designed for students who appreciate social living. Two comfortable beds, two individual desks, and generous storage allow each resident to enjoy their own space while sharing a warm atmosphere. It's the ideal option for those who want to live as a pair while maintaining their independence. The room's smart design optimizes every square meter for your well-being, all for just 200 TND per month."
+    },
+    "triple": {
+      "long_description": "The triple room is our most social space, perfect for friend groups or students who love community living. With three comfortable beds, three individual desks, and spacious storage, each resident has their own corner while enjoying a shared and dynamic living environment. The generous 24 m² space ensures everyone's comfort. At only 150 TND per month, it's the best value for an enriching student life."
+    },
+    "equipment": {
+      "single_bed": "Comfortable single bed",
+      "two_beds": "Two single beds",
+      "three_beds": "Three single beds",
+      "desk": "Study desk",
+      "two_desks": "Two individual desks",
+      "three_desks": "Three individual desks",
+      "wifi": "Free high-speed WiFi",
+      "wardrobe": "Storage wardrobe",
+      "wardrobe_large": "Spacious shared storage",
+      "bathroom_shared": "Shared bathroom",
+      "cleaning": "Weekly cleaning",
+      "security": "24/7 Security"
+    }
+  }
+}

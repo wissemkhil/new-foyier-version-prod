@@ -1,0 +1,244 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Votre chez-vous loin de chez vous",
+    "subtitle": "Foyer Babel — une résidence étudiante moderne au cœur de Tunis, conçue pour les étudiants, les professionnels tech et les entrepreneurs ambitieux.",
+    "cta_rooms": "Voir les chambres",
+    "cta_contact": "Nous contacter",
+    "scroll_down": "Défiler vers le bas"
+  },
+  "rooms": {
+    "title": "Nos Chambres",
+    "subtitle": "Des espaces pensés pour votre confort et votre productivité",
+    "individual": {
+      "name": "Chambre Individuelle",
+      "description": "Votre espace personnel pour étudier et vous reposer en toute tranquillité. Lit simple, bureau et rangement intégré.",
+      "price": "300 TND/mois"
+    },
+    "double": {
+      "name": "Chambre Double",
+      "description": "Partagez votre espace avec un colocataire. Deux lits, deux bureaux, ambiance conviviale et prix avantageux.",
+      "price": "200 TND/mois"
+    },
+    "triple": {
+      "name": "Chambre Triple",
+      "description": "Idéale pour les groupes d'amis. Trois lits, trois bureaux, un espace généreux pour vivre et étudier ensemble.",
+      "price": "150 TND/mois"
+    },
+    "view_details": "Voir les détails"
+  },
+  "pricing": {
+    "title": "Nos Tarifs",
+    "subtitle": "Choisissez la chambre qui correspond à votre budget",
+    "triple": {
+      "name": "Chambre Triple",
+      "price": "150",
+      "period": "/ mois",
+      "features": [
+        "Chambre partagée à 3",
+        "3 lits + 3 bureaux",
+        "WiFi haut débit",
+        "Nettoyage hebdomadaire",
+        "Sécurité 24/7",
+        "Accès espaces communs"
+      ]
+    },
+    "double": {
+      "name": "Chambre Double",
+      "price": "200",
+      "period": "/ mois",
+      "popular": "Le plus demandé",
+      "features": [
+        "Chambre partagée à 2",
+        "2 lits + 2 bureaux",
+        "WiFi haut débit",
+        "Nettoyage hebdomadaire",
+        "Sécurité 24/7",
+        "Accès espaces communs"
+      ]
+    },
+    "individual": {
+      "name": "Chambre Individuelle",
+      "price": "300",
+      "period": "/ mois",
+      "features": [
+        "Chambre privée",
+        "Lit + bureau personnel",
+        "WiFi haut débit",
+        "Nettoyage hebdomadaire",
+        "Sécurité 24/7",
+        "Intimité totale"
+      ]
+    },
+    "currency": "TND",
+    "cta": "Choisir cette chambre"
+  },
+  "amenities": {
+    "title": "Nos Équipements",
+    "subtitle": "Tout ce dont vous avez besoin sous un même toit",
+    "wifi": "WiFi Haut Débit",
+    "cafe": "Café & Snack Shop",
+    "security": "Sécurité 24/7",
+    "gym": "Salle de Sport",
+    "coworking": "Espace Co-working",
+    "laundry": "Buanderie",
+    "parking": "Parking",
+    "ac": "Climatisation"
+  },
+  "audience": {
+    "title": "À Qui S'Adresse Foyer Babel ?",
+    "subtitle": "Un foyer pensé pour chaque profil",
+    "students": {
+      "title": "Étudiants Esprit",
+      "description": "Un cadre idéal pour réussir vos études. Proximité du campus, ambiance studieuse et réseau d'entraide entre étudiants.",
+      "cta": "En savoir plus"
+    },
+    "techup": {
+      "title": "Résidents TechUp",
+      "description": "Espace de vie optimisé pour les professionnels tech. WiFi ultra-rapide, espace co-working et communauté de développeurs.",
+      "cta": "En savoir plus"
+    },
+    "startup": {
+      "title": "Entrepreneurs StartupTech",
+      "description": "Lancez votre startup depuis votre résidence. Networking, mentorat et accès à un écosystème entrepreneurial dynamique.",
+      "cta": "En savoir plus"
+    }
+  },
+  "about": {
+    "page_title": "Notre Histoire",
+    "page_subtitle": "Découvrez l'histoire et les valeurs qui font de Foyer Babel un lieu unique",
+    "story": {
+      "title": "Notre Parcours",
+      "milestones": [
+        {
+          "year": "2015",
+          "title": "La Fondation",
+          "description": "Foyer Babel naît d'une vision simple : offrir aux étudiants tunisiens un espace de vie moderne et abordable. Nos fondateurs, eux-mêmes anciens étudiants, connaissaient les défis du logement étudiant."
+        },
+        {
+          "year": "2017",
+          "title": "Première Expansion",
+          "description": "Face à la demande croissante, nous ouvrons une deuxième aile avec 40 nouvelles chambres et introduisons notre espace co-working, devenu rapidement le cœur battant de la résidence."
+        },
+        {
+          "year": "2019",
+          "title": "Partenariat Esprit",
+          "description": "Signature d'un partenariat stratégique avec l'école Esprit, facilitant l'accès au logement pour les étudiants en ingénierie et en technologies de l'information."
+        },
+        {
+          "year": "2021",
+          "title": "Hub Tech & Innovation",
+          "description": "Lancement du programme TechUp Residents, transformant le foyer en véritable hub d'innovation avec des ateliers hebdomadaires, du mentorat et des hackathons."
+        },
+        {
+          "year": "2024",
+          "title": "Foyer du Futur",
+          "description": "Rénovation complète avec des chambres connectées, une application mobile dédiée et des services premium. Foyer Babel accueille désormais plus de 200 résidents."
+        }
+      ]
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Créer un environnement de vie qui favorise l'excellence académique, l'innovation technologique et l'épanouissement personnel de chaque résident."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "description": "Communauté, excellence, innovation et respect. Ces quatre piliers guident chaque décision et chaque amélioration que nous apportons à Foyer Babel."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Devenir la référence en matière de résidences étudiantes en Tunisie et en Afrique du Nord, en combinant confort moderne et communauté inspirante."
+    },
+    "gallery": {
+      "title": "Notre Galerie",
+      "subtitle": "Découvrez nos espaces en images"
+    }
+  },
+  "contact": {
+    "page_title": "Contactez-Nous",
+    "page_subtitle": "Nous sommes là pour répondre à toutes vos questions",
+    "info_title": "Nos Coordonnées",
+    "phone": "+216 71 234 567",
+    "email": "contact@foyerbabel.tn",
+    "address": "La Ghazela, Ariana 2083, Tunis, Tunisie",
+    "form_title": "Envoyez-nous un message",
+    "name": "Nom complet",
+    "name_placeholder": "Votre nom complet",
+    "email_label": "Email",
+    "email_placeholder": "votre.email@exemple.com",
+    "phone_label": "Téléphone (optionnel)",
+    "phone_placeholder": "+216 XX XXX XXX",
+    "subject": "Sujet",
+    "subject_placeholder": "Objet de votre message",
+    "message": "Message",
+    "message_placeholder": "Écrivez votre message ici...",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Votre message a été envoyé avec succès ! Nous vous répondrons dans les plus brefs délais.",
+    "error": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+    "validation": {
+      "name_required": "Le nom est requis",
+      "email_required": "L'email est requis",
+      "email_invalid": "L'adresse email n'est pas valide",
+      "subject_required": "Le sujet est requis",
+      "message_required": "Le message est requis",
+      "message_min": "Le message doit contenir au moins 10 caractères"
+    },
+    "social_title": "Suivez-nous",
+    "social_subtitle": "Restez connecté avec Foyer Babel",
+    "plan_selected": "Plan sélectionné :",
+    "plan_subject": "Demande d'inscription — Plan {{plan}}",
+    "plan_message": "Bonjour,\n\nJe suis intéressé(e) par le plan {{plan}} ({{price}}).\n\nJe souhaite recevoir plus d'informations sur les modalités d'inscription et les disponibilités.\n\nMerci d'avance pour votre retour.\n\nCordialement",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "tagline": "Votre résidence étudiante moderne au cœur de Tunis. Confort, communauté et innovation.",
+    "quick_links": "Liens Rapides",
+    "contact_info": "Contact",
+    "newsletter": "Newsletter",
+    "newsletter_text": "Recevez nos dernières nouvelles et offres spéciales.",
+    "email_placeholder": "Votre adresse email",
+    "subscribe": "S'abonner",
+    "copyright": "© 2024 Foyer Babel. Tous droits réservés.",
+    "made_with": "Fait avec ❤️ en Tunisie"
+  },
+  "room_detail": {
+    "back": "Retour aux chambres",
+    "back_home": "Retour à l'accueil",
+    "not_found": "Chambre introuvable",
+    "person": "personne(s)",
+    "book_now": "Réserver maintenant",
+    "description_title": "Description",
+    "equipment_title": "Équipements inclus",
+    "individual": {
+      "long_description": "Notre chambre individuelle est le choix parfait pour les étudiants qui recherchent un espace personnel et calme. Équipée d'un lit confortable, d'un bureau spacieux et d'un rangement intégré, cette chambre offre tout ce dont vous avez besoin pour réussir vos études. La lumière naturelle abondante et le design fonctionnel créent une atmosphère propice à l'étude et au repos. Les salles de bains partagées sont nettoyées quotidiennement. À 300 TND par mois, c'est la solution idéale pour un séjour confortable et privé."
+    },
+    "double": {
+      "long_description": "La chambre double est conçue pour les étudiants qui apprécient la convivialité. Deux lits confortables, deux bureaux individuels et un espace de rangement généreux permettent à chaque résident de profiter de son propre espace tout en partageant une atmosphère chaleureuse. C'est l'option idéale pour ceux qui souhaitent vivre en binôme tout en gardant leur indépendance. Le design intelligent de la chambre optimise chaque mètre carré pour votre bien-être, le tout à 200 TND par mois."
+    },
+    "triple": {
+      "long_description": "La chambre triple est notre espace le plus convivial, parfait pour les groupes d'amis ou les étudiants qui aiment la vie en communauté. Avec trois lits confortables, trois bureaux individuels et un rangement spacieux, chaque résident dispose de son propre coin tout en profitant d'un cadre de vie partagé et dynamique. L'espace généreux de 24 m² assure le confort de chacun. À seulement 150 TND par mois, c'est le meilleur rapport qualité-prix pour une vie étudiante enrichissante."
+    },
+    "equipment": {
+      "single_bed": "Lit simple confortable",
+      "two_beds": "Deux lits simples",
+      "three_beds": "Trois lits simples",
+      "desk": "Bureau d'étude",
+      "two_desks": "Deux bureaux individuels",
+      "three_desks": "Trois bureaux individuels",
+      "wifi": "WiFi haut débit gratuit",
+      "wardrobe": "Armoire de rangement",
+      "wardrobe_large": "Rangement spacieux partagé",
+      "bathroom_shared": "Salle de bain partagée",
+      "cleaning": "Nettoyage hebdomadaire",
+      "security": "Sécurité 24/7"
+    }
+  }
+}
